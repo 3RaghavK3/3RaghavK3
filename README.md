@@ -33,7 +33,9 @@
 
 ### 📊 GitHub Stats  
 🔥 **Consistency & Impact**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=3RaghavK3&theme=tokyonight)  
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=3RaghavK3&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
 🚀 **Overall Stats**  
 ![3RaghavK3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3RaghavK3&show_icons=true&theme=tokyonight)  
@@ -44,3 +46,4 @@
 ---
 
 🔍 **Let’s Build Something Awesome!** 🚀
+
