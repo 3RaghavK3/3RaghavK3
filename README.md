@@ -2,9 +2,8 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently working on the **MERN Stack**  
-- 🎓 **B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Coimbatore (2nd Year)  
-- ✍️ Regularly writing articles on [Hashnode](https://hashnode.com/@Raghavk33)  
-
+- 🎓 **B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Coimbatore (3rd Year)
+  
 ### 🔗 Connect with Me  
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/3RaghavK3">
@@ -30,17 +29,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub Stats  
-
-🚀 **Overall Stats**  
-![3RaghavK3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3RaghavK3&show_icons=true&theme=tokyonight)  
-
-💡 **Most Used Tech**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3RaghavK3&layout=compact&theme=tokyonight)  
-
----
 
 🔍 **Let’s Build Something Awesome!** 🚀
 
