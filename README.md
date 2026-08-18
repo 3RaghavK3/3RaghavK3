@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently working on the **MERN Stack**  
-- 🎓 **B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Coimbatore (3rd Year)
+- 🎓 **B.Tech CSE** @ Amrita Vishwa Vidyapeetham, Coimbatore (Final Year)
   
 ### 🔗 Connect with Me  
 <div style="display: flex; gap: 10px;">
